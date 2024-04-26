@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mehrdad Ansarifar</h1>
-<h3 align="center">Front-End and Android (Java) Developer</h3>
+<h3 align="left">Front-End and Android (Java) Developer</h3>
 
 - 🔭 I’m currently working on [Alphapico (Course Website)](https://alphapico.ir)
 
 - 🌱 I’m currently learning **C#, .NET, TypeScript**
 
-- 👯 I’m working at [ParchLinux](https://parchlinux.com/)
+- 👯 I’m at [ParchLinux](https://parchlinux.com/) Team as UI/UX Designer
 
 - 💬 Ask me about **Android, Front-End, Linux**
 
