@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehrdad Ansarifar</h1>
+<h1 align="left">Hi 👋, I'm Mehrdad Ansarifar!</h1>
 <h3 align="left">Front-End and Android (Java) Developer</h3>
 
 - 🔭 I’m currently working on [Alphapico (Course Website)](https://alphapico.ir)
