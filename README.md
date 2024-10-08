@@ -1,4 +1,4 @@
-<h1 align="center">it's Mehrdad, a developer!</h1>
+<h1>it's Mehrdad, a developer!</h1>
 <h4>Front-End Developer and UI/UX Designer</h4>
 
 - 🔭 I’m currently working on [Alphapico (Course Website)](https://alphapico.ir)
