@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mehrdad Ansarifar!</h1>
-<h4 align="center">UI/UX Designer, Front-End and Android (Java) Developer</h4>
+<h1 align="center">it's Mehrdad, a developer!</h1>
+<h4 align="center">Front-End Developer and UI/UX Designer</h4>
 
 - 🔭 I’m currently working on [Alphapico (Course Website)](https://alphapico.ir)
 
 - 🌱 I’m currently learning **C#, .NET, TypeScript**
 
-- 👯 I'm focused on UI/UX Design
+- 👯 I'm focused on Front-End
 
 - 💬 Ask me about **Android, Front-End, Linux**
 
