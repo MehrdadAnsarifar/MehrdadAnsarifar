@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">Full-Stack Developer & Wordpress specialist | UI/UX Designer</h1>
+<h1 align="center">Front-End Developer & Wordpress specialist | UI/UX Designer</h1>
 
 ###
 
